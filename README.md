@@ -6,3 +6,13 @@
 - JAXB
 
 ***Estos ejemplos se encuentran explicados en mi canal de YT***
+
+## Tecnologías Utilizadas
+
+- JDK 11
+- Maven
+
+### Librerías Externas
+
+- Lombok
+- JAXB
