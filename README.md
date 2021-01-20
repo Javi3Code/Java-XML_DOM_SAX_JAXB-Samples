@@ -1,2 +1,8 @@
 # Java-XML_DOM_SAX_JAXB-Samples
-In these samples, you can learn how to handle xml in java.
+
+- Ejemplos de cómo podemos manejar XML en Java
+- API DOM
+- API SAX
+- JAXB
+
+***Estos ejemplos se encuentran explicados en mi canal de YT***
