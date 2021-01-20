@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personManager>
+	<persons>
+		<person birthdate="1990-10-10">
+			<name>Juana</name>
+			<surname>de Arco</surname>
+		</person>
+		<employee category="Comercial" code="4000"
+			birthdate="1980-01-23">
+			<name>Pedro</name>
+			<surname>Picapiedra</surname>
+		</employee>
+		<client clientId="1" birthdate="1984-10-01">
+			<name>Sofía</name>
+			<surname>Martinez</surname>
+			<product>Pienso Perros</product>
+		</client>
+		<person birthdate="1990-10-10">
+			<name>Juana</name>
+			<surname>de Arco</surname>
+		</person>
+		<employee category="Comercial" code="4000"
+			birthdate="1980-01-23">
+			<name>Pedro</name>
+			<surname>Picapiedra</surname>
+		</employee>
+		<client clientId="1" birthdate="1984-10-01">
+			<name>Sofía</name>
+			<surname>Martinez</surname>
+			<product>Pienso Perros</product>
+		</client>
+		<person birthdate="1990-10-10">
+			<name>Juana</name>
+			<surname>de Arco</surname>
+		</person>
+		<employee category="Comercial" code="4000"
+			birthdate="1980-01-23">
+			<name>Pedro</name>
+			<surname>Picapiedra</surname>
+		</employee>
+		<client clientId="1" birthdate="1984-10-01">
+			<name>Sofía</name>
+			<surname>Martinez</surname>
+			<product>Pienso Perros</product>
+		</client>
+		<person birthdate="1990-10-10">
+			<name>Juana</name>
+			<surname>de Arco</surname>
+		</person>
+		<employee category="Comercial" code="4000"
+			birthdate="1980-01-23">
+			<name>Pedro</name>
+			<surname>Picapiedra</surname>
+		</employee>
+		<client clientId="1" birthdate="1984-10-01">
+			<name>Sofía</name>
+			<surname>Martinez</surname>
+			<product>Pienso Perros</product>
+		</client>
+		<person birthdate="1990-10-10">
+			<name>Juana</name>
+			<surname>de Arco</surname>
+		</person>
+		<employee category="Comercial" code="4000"
+			birthdate="1980-01-23">
+			<name>Pedro</name>
+			<surname>Picapiedra</surname>
+		</employee>
+		<client clientId="1" birthdate="1984-10-01">
+			<name>Sofía</name>
+			<surname>Martinez</surname>
+			<product>Pienso Perros</product>
+		</client>
+	</persons>
+</personManager>

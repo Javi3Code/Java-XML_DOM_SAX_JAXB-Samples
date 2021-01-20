@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+	<employee category="Operario" employeeCode="7070">
+		<name>Pepe</name>
+		<surname>Dominguez</surname>
+		<age>21</age>
+		<salary>1450.75</salary>
+	</employee>
+	<employee category="Operario Temporal" employeeCode="7100">
+		<name>María</name>
+		<surname>García</surname>
+		<age>19</age>
+		<salary>1008.9</salary>
+	</employee>
+	<employee category="Jefe de Sección" employeeCode="1001">
+		<name>Pedro</name>
+		<surname>Rolando</surname>
+		<age>38</age>
+		<salary>1893.34</salary>
+	</employee>
+	<employee category="Maquinista" employeeCode="7022">
+		<name>Juan</name>
+		<surname>de Benito</surname>
+		<age>54</age>
+		<salary>1858.68</salary>
+	</employee>
+	<employee category="Seguridad">
+		<name>Lola</name>
+		<surname>Flores</surname>
+	</employee>
+	<employee category="Limpieza" employeeCode="7373">
+		<name>Lola</name>
+		<surname>Margarita</surname>
+		<salary>1231.34</salary>
+		<age>25</age>
+	</employee>
+	<employee category="Produción" employeeCode="7003">
+		<name>Mario</name>
+		<surname>García</surname>
+		<salary>1331.34</salary>
+		<age>22</age>
+	</employee>
+	<employee category="Limpieza">
+		<name>Pepe</name>
+	</employee>
+	<employee>
+		<name>Bengano</name>
+		<surname>Benito</surname>
+	</employee>
+</employees>
